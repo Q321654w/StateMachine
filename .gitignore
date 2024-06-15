@@ -1,0 +1,11 @@
+
+#Directories
+
+/bin/
+/obj/
+/Properties/
+
+
+#Files
+StateMachine.csproj
+
